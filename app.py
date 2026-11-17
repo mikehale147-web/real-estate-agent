@@ -1,6 +1,6 @@
 """
 Real Estate Agent - Full Property Manager with Applications & Payments
-Run: python app.py  →  http://localhost:5000
+Run: python app.py  →  https://sarah-anderson.onrender.com/
 """
 
 import os
