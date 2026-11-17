@@ -41,7 +41,7 @@ AGENT_BIO = ("With 12+ years of experience and over 340 successful transactions,
              "buyers to luxury estates.")
 AGENT_YEARS = "12+"
 AGENT_SALES = "340+"
-AGENT_VOLUME = "$180M"
+AGENT_VOLUME = "$10M"
 
 app = Flask(__name__)
 app.config['DATABASE'] = DATABASE
@@ -615,7 +615,7 @@ __WHATSAPP_CSS__
       <a href="#services">Services</a>
       <a href="#featured">Listings</a>
       <a href="#testimonials">Reviews</a>
-      <a href="/manage" class="nav-cta">Manage Properties</a>
+      
     </div>
   </div>
 </nav>
@@ -736,7 +736,7 @@ __WHATSAPP_CSS__
 <footer>
   &copy; 2025 __AGENT_NAME__ · __AGENT_TITLE__ ·
   <a href="mailto:__AGENT_EMAIL__">__AGENT_EMAIL__</a> ·
-  <a href="/manage">Manage Properties</a>
+  
 </footer>
 
 __WHATSAPP_BUTTON__
